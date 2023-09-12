@@ -12,7 +12,7 @@
 
 ## 仓库地址(任意选择一个，已同步)
 
-- gitee ：https://gitee.com/msksk/software-engineering.git
+- gitee ：https://gitee.com/msk_2/software-engineering.git
 - github : https://github.com/123456msk/software-engineering.git
 
 
